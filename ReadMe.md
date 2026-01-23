@@ -23,7 +23,7 @@ Frice-CozyCup Cafe is a simple and visually appealing café website designed to 
 ## Screen Captures
 
 ### Logo
-![alt text](img/Logo.png)
+![alt text](img/Bg.png)
 This is the logo of our business.
 
 ### Home Page
@@ -55,7 +55,7 @@ Allows users to easily find contact details for inquiries and feedback.
 
 ## About the Authors
 
-<img src="https://raw.githubusercontent.com/fraaays/Frice-cozycup/main/img/Fri.jpg" width="150" style="border: 50%;" alt="Frilyn Alicos">
+<img src="https://raw.githubusercontent.com/fraaays/Frice-cozycup/main/img/Fri.jpg" width="150" style="border-radius: 50%;" alt="Frilyn Alicos">
 
 <b>Names:</b> Frilyn Alicos <br> 
 <b>Email:</b> 202380114@psu.palawan.edu.ph
