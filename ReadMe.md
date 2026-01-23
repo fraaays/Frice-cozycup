@@ -74,3 +74,11 @@ Allows users to easily find contact details for inquiries and feedback.
 <a href="https://github.com/fraaays" target="_blank">
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="40" alt="GitHub">
 </a>
+
+<a href="https://www.facebook.com/icedlcrz23" target="_blank">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="40" alt="Facebook">
+</a>
+
+<a href="https://github.com/asi0723" target="_blank">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="40" alt="GitHub">
+</a>
