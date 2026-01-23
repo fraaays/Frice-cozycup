@@ -62,23 +62,22 @@ Allows users to easily find contact details for inquiries and feedback.
 <b>Names:</b> Frilyn Alicos <br> 
 <b>Email:</b> 202380114@psu.palawan.edu.ph
 
+<a href="https://www.facebook.com/share/17Q6HMJt9C/" target="_blank">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="40" alt="Facebook">
+</a>
+<a href="https://github.com/fraaays" target="_blank">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="40" alt="GitHub">
+</a>
+
+
 <img src="https://raw.githubusercontent.com/fraaays/Frice-cozycup/main/img/Ace.webp" width="150" style="border-radius: 50%;" alt="Frilyn Alicos">
 
 <b>Names:</b> Ace Carl Dela Cruz <br> 
 <b>Email:</b> 202380159@psu.palawan.edu.ph
 
-<a href="https://www.facebook.com/share/17Q6HMJt9C/" target="_blank">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="40" alt="Facebook">
-</a>
-
-<a href="https://github.com/fraaays" target="_blank">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="40" alt="GitHub">
-</a>
-
 <a href="https://www.facebook.com/icedlcrz23" target="_blank">
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="40" alt="Facebook">
 </a>
-
 <a href="https://github.com/asi0723" target="_blank">
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="40" alt="GitHub">
 </a>
