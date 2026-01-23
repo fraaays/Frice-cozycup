@@ -22,44 +22,43 @@ Frice-CozyCup Cafe is a simple and visually appealing café website designed to 
 
 ## Screen Captures
 
+### Logo
 ![alt text](img/Logo.png)
-1. This is the logo of our business.
+This is the logo of our business.
 
-![alt text](img/Second.png)
-2. This is our menu for our Hot Beverages
-
-![alt text](img/Third.png)
-3. This is our menu for our Cold Beverages
-
-![alt text](img/Fourth.png)
-4. This is our menu for our Tea.
-
-## Home Page
-
+### Home Page
+![alt text](img/Home.png)
 This page welcomes users with a cozy café introduction and a button to explore the menu.
 
 
 
-## Menu Section
+### Menu Section
+![alt text](img/Second.png)
 
+![alt text](img/Third.png)
+
+![alt text](img/Fourth.png)
 Displays the available beverages with images, names, and prices in a clean layout.
 
 
 
-## About Us Section
+### About Us Section
 
+![alt text](img/About.png)
 Provides information about the café’s mission, values, and relaxing environment.
 
 
+### Contact Section
 
-## Contact Section
-
+![alt text](img/Contact.png)
 Allows users to easily find contact details for inquiries and feedback.
-
-
 
 ## About the Authors
 
-Names: Frilyn Alicos & Ace Carl Dela Cruz
+<img src="https://raw.githubusercontent.com/fraaays/Frice-cozycup/main/img/Fri.jpg" width="150" style="border: 50%;" alt="Frilyn Alicos">
 
-Email: Frice@gmail.com
+<b>Names:</b> Frilyn Alicos <br> 
+<b>Email:</b> 202380114@psu.palawan.edu.ph
+
+Ace Carl Dela Cruz
+
