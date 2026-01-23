@@ -52,6 +52,7 @@ Provides information about the café’s mission, values, and relaxing environme
 ### Contact Section
 
 ![alt text](img/Contact.png)
+
 Allows users to easily find contact details for inquiries and feedback.
 
 ## About the Authors
