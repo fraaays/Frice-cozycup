@@ -67,3 +67,10 @@ Allows users to easily find contact details for inquiries and feedback.
 <b>Names:</b> Ace Carl Dela Cruz <br> 
 <b>Email:</b> 202380159@psu.palawan.edu.ph
 
+<a href="https://www.facebook.com/share/17Q6HMJt9C/" target="_blank">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="40" alt="Facebook">
+</a>
+
+<a href="https://github.com/fraaays" target="_blank">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="40" alt="GitHub">
+</a>
